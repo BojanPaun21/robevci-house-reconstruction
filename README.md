@@ -15,8 +15,8 @@ A desktop application that lets users walk through a 3D model of the interior of
 
 | Folder / file | What it contains |
 |---|---|
-| `models/own/` | 3D models created by the author in Autodesk Maya (FBX) |
-| `data/` | Anonymised questionnaire responses (P1–P12) and the questionnaires |
+| `models` | 3D model created by the author in Autodesk Maya (FBX) |
+| `Collected data/` | Anonymised questionnaire responses (P1–P12) and the questionnaires |
 | `screenshots/` | Images from the application |
 | `THIRD_PARTY_ASSETS.md` | Sources and licences of all third-party assets |
 
