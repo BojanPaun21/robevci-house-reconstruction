@@ -20,7 +20,7 @@ A desktop application that lets users walk through a 3D model of the interior of
 | `screenshots/` | Images from the application |
 | `THIRD_PARTY_ASSETS.md` | Sources and licences of all third-party assets |
 
-The Windows build is available under **Releases** and on Zenodo (DOI below).
+The Windows build is available under [**Releases**](https://github.com/BojanPaun21/robevci-house-reconstruction/releases/tag/v1.0.0) and on Zenodo (DOI below).
 
 ## Run the application
 
@@ -32,8 +32,8 @@ The Windows build is available under **Releases** and on Zenodo (DOI below).
 Third-party models and textures are not included in this repository. Their sources and licences are listed in [THIRD_PARTY_ASSETS.md](THIRD_PARTY_ASSETS.md).
 
 ## Citation
+Paunkoski, B. (2026). *Robevci House Reconstruction* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23480033
 
-Zenodo DOI: _to be added after the first release_
 
 ## Author
 
